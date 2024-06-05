@@ -31,7 +31,7 @@ Windows11の場合<br>
 　③音声認識タブへ移動します<br>
 　④オンライン音声認識を「オン」にします<br>
 <br>
-https://github.com/RabbitAndTurtles/V-collaboration-AI/wiki/%E9%9F%B3%E5%A3%B0%E8%AA%8D%E8%AD%98%E3%81%AE%E8%A8%AD%E5%AE%9A<br>
+[https://github.com/RabbitAndTurtles/V-collaboration-AI/wiki/%E9%9F%B3%E5%A3%B0%E8%AA%8D%E8%AD%98%E3%81%AE%E8%A8%AD%E5%AE%9A](https://github.com/RabbitAndTurtles/V-collaboration-AI/wiki/Windows-%E9%9F%B3%E5%A3%B0%E8%AA%8D%E8%AD%98%E3%81%AE%E8%A8%AD%E5%AE%9A)<br>
 <br>
 **【利用規約】**<br>
 ・どなたでも無料で商用、非商用問わずご利用頂けます。<br>
