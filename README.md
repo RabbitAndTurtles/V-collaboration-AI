@@ -1,6 +1,8 @@
 # V collaboration AI
-V collaboration AI β v0.10<br>
-サークル「らびかめ」(Rabbit and Turtles)<br>
+<img src="https://github.com/RabbitAndTurtles/V-collaboration-AI/assets/52926422/13ed8d4e-eb28-4bb4-bc09-9b34b43ff038" height="200"><br>
+<br>
+**V collaboration AI β v0.10**<br>
+**サークル「らびかめ」(Rabbit and Turtles)**<br>
 <br>
 **【概要】**<br>
 "V collaboration AI β"は、テキスト入力・音声認識・画像キャプチャ等を用いて、VRM 3Dモデルとの会話を楽しむことができるソフトウェアです。<br>
