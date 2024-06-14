@@ -1,5 +1,5 @@
 # V collaboration AI
-<img src="https://github.com/RabbitAndTurtles/V-collaboration-AI/assets/52926422/13ed8d4e-eb28-4bb4-bc09-9b34b43ff038" height="200"><br>
+<img src="[https://github.com/RabbitAndTurtles/V-collaboration-AI/assets/52926422/13ed8d4e-eb28-4bb4-bc09-9b34b43ff038](https://github.com/RabbitAndTurtles/V-collaboration-AI/assets/52926422/121aaaac-30a1-4f35-9571-eda74b91fbe1)" height="200"><br>
 <br>
 **V collaboration AI β v0.10**<br>
 **サークル「らびかめ」(Rabbit and Turtles)**<br>
