@@ -9,7 +9,7 @@
 利用には、OpenAI APIキー、VRMモデル、及びVoiceVoxのインストールが必要になります。<br>
 <br>
 **【更新履歴】**<br>
-2024/06/07 V Collaboration AI β v0.10 仮公開<br>
+2024/06/15 V Collaboration AI β v0.10 仮公開<br>
 <br>
 **【動作環境】**<br>
 Windows10・11<br>
