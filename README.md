@@ -16,7 +16,7 @@ Windows10・11<br>
 <br>
 **【使用方法】**<br>
 下記、使い方説明をご確認ください。<br>
-https://github.com/RabbitAndTurtles/V-collaboration-AI/wiki/V%E2%80%90collaboration%E2%80%90AI-%E4%BD%BF%E3%81%84%E6%96%B9%E8%AA%AC%E6%98%8E<br>
+[https://github.com/RabbitAndTurtles/V-collaboration-AI/wiki/V%E2%80%90collaboration%E2%80%90AI-%E4%BD%BF%E3%81%84%E6%96%B9%E8%AA%AC%E6%98%8E](https://github.com/RabbitAndTurtles/V-collaboration-AI/wiki/V-collaboration-AI-HowToUse)<br>
 <br>
 その他、ご不明な点がございましたら、下記Discordもしくはgithubのissueにてご連絡ください。<br>
 <br>
