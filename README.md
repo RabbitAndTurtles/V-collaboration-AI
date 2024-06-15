@@ -49,7 +49,7 @@ Windows11の場合<br>
 当ソフトウェアを利用したことによるいかなる損害も、責任を負いません。<br>
 <br>
 **【連絡先・サポート】**<br>
-Discord:https://discord.gg/cw8HBxRms7<br>
+Discord：https://discord.gg/cw8HBxRms7<br>
 GitHub：https://github.com/RabbitAndTurtles/V-collaboration-AI<br>
 <br>
 X (旧Twitter)<br>
