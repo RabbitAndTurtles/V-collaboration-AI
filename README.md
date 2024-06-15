@@ -22,7 +22,7 @@ Windows10・11<br>
 <br>
 **【Windows音声認識の設定】**<br>
 音声認識を利用するためには、下記Windows音声認識設定の実行が必要です。<br>
-https://github.com/RabbitAndTurtles/V-collaboration-AI/wiki/Windows-%E9%9F%B3%E5%A3%B0%E8%AA%8D%E8%AD%98%E3%81%AE%E8%A8%AD%E5%AE%9A<br>
+[https://github.com/RabbitAndTurtles/V-collaboration-AI/wiki/Windows-%E9%9F%B3%E5%A3%B0%E8%AA%8D%E8%AD%98%E3%81%AE%E8%A8%AD%E5%AE%9A](https://github.com/RabbitAndTurtles/V-collaboration-AI/wiki/Windows-%E9%9F%B3%E5%A3%B0%E8%AA%8D%E8%AD%98%E3%81%AE%E8%A8%AD%E5%AE%9A)<br>
 <br>
 Windows10の場合<br>
 　①Windowsの設定画面を開きます<br>
